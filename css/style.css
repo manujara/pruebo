@@ -230,7 +230,6 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
     height: auto;
     background-size: 100%;
     padding: 0px 0px 20px 0px;
@@ -296,6 +295,7 @@ button {
     width: 100%;
     text-align: center;
     margin: 0 auto;
+    margin-top:1%
 }
 
 .menu_main ul {
@@ -1311,7 +1311,7 @@ body{background-color:#eee;}
 .footer_section {
     width: 100%;
     float: left;
-    background-image: url(../images/footer-bg.png);
+    
     height: auto;
     padding-top: 250px;
     background-size: 100% 100%;

@@ -3,3 +3,10 @@
     height: 50% !important;
     margin-left: 30%;
 }
+.footer_section{
+    background-image: url(../images/footer-bg.png);
+}
+.header_section{
+    /*background-image: url(../images/banner-bg.png);*/
+    background-color: rgb(58, 92, 217) !important;
+}
